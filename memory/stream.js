@@ -1,8 +1,8 @@
 const { createReadStream } = require('fs');
 const { Transform } = require('stream');
-const util = require('util');
+// const util = require('util');
 
-let data = '';
+// let data = '';
 
 // let readableStream = fs.createReadStream(__dirname + '/input.txt');
 // readableStream.setEncoding('UTF8');
